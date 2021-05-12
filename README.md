@@ -14,3 +14,4 @@
 	- [[서울시 범죄 현황 분석] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222343441744)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime01.ipynb)   
 	- [[서울시 범죄 현황 분석] 데이터 분석하기(pivot_table 이용하기) 2](https://blog.naver.com/jaeyoon_95/222345731394)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime02.ipynb)   
 	- [[서울시 범죄 현황 분석] 데이터 분석하기(Seaborn 사용하기) 3](https://blog.naver.com/jaeyoon_95/222346676355)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime03.ipynb)   
+	- [[서울시 범죄 현황 분석] 데이터 분석하기(Folium 사용하기) 4](https://blog.naver.com/jaeyoon_95/222347999731)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime04.ipynb)   
