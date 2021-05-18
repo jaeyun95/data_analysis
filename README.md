@@ -15,3 +15,11 @@
 	- [[서울시 범죄 현황 분석] 데이터 분석하기(pivot_table 이용하기) 2](https://blog.naver.com/jaeyoon_95/222345731394)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime02.ipynb)   
 	- [[서울시 범죄 현황 분석] 데이터 분석하기(Seaborn 사용하기) 3](https://blog.naver.com/jaeyoon_95/222346676355)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime03.ipynb)   
 	- [[서울시 범죄 현황 분석] 데이터 분석하기(Folium 사용하기) 4](https://blog.naver.com/jaeyoon_95/222347999731)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/2.Seoul%20Crime/code/SeoulCrime04.ipynb)   
+	
+3. Chicago Sandwiches
+	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/3.Chicago%20Sandwich/data)   
+	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기(Beautiful Soup) 1](https://blog.naver.com/jaeyoon_95/222356074386)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich01.ipynb)  
+	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222356187126)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich02.ipynb)  
+	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 3](https://blog.naver.com/jaeyoon_95/222356230334)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich03.ipynb)  
+	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 4](https://blog.naver.com/jaeyoon_95/222356272876)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich04.ipynb)  
+	- [[네이버 영화 평점 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222356340025)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/NaverMovies.ipynb)  	
