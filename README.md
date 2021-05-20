@@ -1,5 +1,9 @@
 # Data Analysis
 
+0. Seoul CCTV Data Analysis   
+	- [[네이버 영화 평점 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222356340025)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/NaverMovies.ipynb)  
+	- [[잠실 맛집 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222358945282)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/JamsilFood.ipynb)  
+
 1. Seoul CCTV Data Analysis   
 	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/1.Seoul%20CCTV/data)   
 	- [[서울시CCTV데이터분석] 데이터 분석하기(pandas 기본문법) 1](https://blog.naver.com/jaeyoon_95/222342148573) [[code]](https://github.com/jaeyun95/data_analysis/blob/master/1.Seoul%20CCTV/code/seoulCCTV01.ipynb)   
@@ -22,4 +26,4 @@
 	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222356187126)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich02.ipynb)  
 	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 3](https://blog.naver.com/jaeyoon_95/222356230334)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich03.ipynb)  
 	- [[시카고 샌드위치 맛집 분석] 데이터 분석하기 4](https://blog.naver.com/jaeyoon_95/222356272876)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/ChicagoSandwich04.ipynb)  
-	- [[네이버 영화 평점 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222356340025)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/3.Chicago%20Sandwich/code/NaverMovies.ipynb)  	
+	
