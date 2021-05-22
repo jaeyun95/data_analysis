@@ -19,3 +19,4 @@ stations["Location"] = [area.split()[1] for area in stations["Address"]]
 
 stations = stations[stations["Price"] != "-"]
 stations["Price"] = [float(price) for price in stations['Price']]
+stations.to_csv("C:/Users/jaeyun/Desktop/github/data_analysis/4.Seoul Gas Station/data/station.csv")
