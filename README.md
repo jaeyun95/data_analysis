@@ -34,3 +34,7 @@
 	- [[셀프 주유소 가격 분석] 데이터 분석하기(그래프 분석,Seaborn) 3](https://blog.naver.com/jaeyoon_95/222361388502)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/4.Seoul%20Gas%20Station/code/SeoulGasStation03.py)  
 	- [[셀프 주유소 가격 분석] 데이터 분석하기(googlemaps) 4](https://blog.naver.com/jaeyoon_95/222361445779)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/4.Seoul%20Gas%20Station/code/SeoulGasStation04.py)  
 	
+5. Population
+	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/5.Population/data)   
+	- [[인구 소멸 위기 지역 분석] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222379389408)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/5.Population/code/Population01.py)  
+	- [[인구 소멸 위기 지역 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222380004583)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/5.Population/code/Population02.py)  
