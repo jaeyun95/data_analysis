@@ -1,6 +1,6 @@
 # Data Analysis
 
-0. Seoul CCTV Data Analysis   
+0. ETC 
 	- [[네이버 영화 평점 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222356340025)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/NaverMovies.ipynb)  
 	- [[잠실 맛집 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222358945282)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/JamsilFood.ipynb)  
 
@@ -38,3 +38,8 @@
 	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/5.Population/data)   
 	- [[인구 소멸 위기 지역 분석] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222379389408)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/5.Population/code/Population01.py)  
 	- [[인구 소멸 위기 지역 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222380004583)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/5.Population/code/Population02.py)  
+
+6. Presiential Election
+	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/6.Presidential%20Election/data)   
+	- [[19대 대선 결과 분석] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222385006126)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/6.Presidential%20Election/code/PresidentialElection01.py)  
+	- [[19대 대선 결과 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222386444212)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/6.Presidential%20Election/code/PresidentialElection02.py)  
