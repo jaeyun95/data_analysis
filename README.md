@@ -43,3 +43,8 @@
 	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/6.Presidential%20Election/data)   
 	- [[19대 대선 결과 분석] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222385006126)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/6.Presidential%20Election/code/PresidentialElection01.py)  
 	- [[19대 대선 결과 분석] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222386444212)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/6.Presidential%20Election/code/PresidentialElection02.py)  
+
+7. Stock
+	- [Data Download](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/data)   
+	- [[주식 데이터 분석하기] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222388410365)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/code/Stock01.ipynb)  
+	- [[주식 데이터 분석하기] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222388465665)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/code/Stock02.ipynb)  
