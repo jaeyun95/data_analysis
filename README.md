@@ -1,9 +1,10 @@
 # Data Analysis
 
-0. ETC 
+0. Mini Project
 	- [[네이버 영화 평점 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222356340025)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/NaverMovies.ipynb)  
 	- [[잠실 맛집 분석하기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222358945282)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/JamsilFood.ipynb)  
-
+	- [[남자친구 선물 고르기] 데이터 분석하기](https://blog.naver.com/jaeyoon_95/222389874034)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/0.Mini%20Project/code/present.py)  
+	
 1. Seoul CCTV Data Analysis   
 	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/1.Seoul%20CCTV/data)   
 	- [[서울시CCTV데이터분석] 데이터 분석하기(pandas 기본문법) 1](https://blog.naver.com/jaeyoon_95/222342148573) [[code]](https://github.com/jaeyun95/data_analysis/blob/master/1.Seoul%20CCTV/code/seoulCCTV01.ipynb)   
@@ -48,3 +49,10 @@
 	- [Data Download](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/data)   
 	- [[주식 데이터 분석하기] 데이터 분석하기 1](https://blog.naver.com/jaeyoon_95/222388410365)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/code/Stock01.ipynb)  
 	- [[주식 데이터 분석하기] 데이터 분석하기 2](https://blog.naver.com/jaeyoon_95/222388465665)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/7.Stock/code/Stock02.ipynb)  
+
+8. NLP
+	- [Data Download](https://github.com/jaeyun95/data_analysis/tree/master/8.NLP/data)   
+	- [[자연어 데이터 분석] 데이터 분석하기 (KoNLPy,wordcloud,nltk) 1](https://blog.naver.com/jaeyoon_95/222388883761)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/8.NLP/code/NLP01.py)  
+	- [[자연어 데이터 분석] 데이터 분석하기(육아휴직 관련 법안 분석) 2](https://blog.naver.com/jaeyoon_95/222389722121)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/8.NLP/code/NLP02.py)  
+	- [[자연어 데이터 분석] 데이터 분석하기(나이브 베이즈 분류) 3](https://blog.naver.com/jaeyoon_95/222389783481)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/8.NLP/code/NLP03.py)  
+	- [[자연어 데이터 분석] 데이터 분석하기(문장 유사도 측정) 4](https://blog.naver.com/jaeyoon_95/222389832335)  [[code]](https://github.com/jaeyun95/data_analysis/blob/master/8.NLP/code/NLP04.py)  
